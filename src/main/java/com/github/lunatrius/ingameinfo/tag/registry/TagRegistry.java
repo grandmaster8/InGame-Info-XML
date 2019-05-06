@@ -63,7 +63,6 @@ public class TagRegistry {
         TagFormatting.register();
         TagMisc.register();
         TagMouseOver.register();
-        TagNearbyPlayer.register();
         TagPlayerEquipment.register();
         TagPlayerGeneral.register();
         TagPlayerPosition.register();
